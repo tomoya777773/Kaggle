@@ -1,2 +1,2 @@
-# My score in kaggle is 0.11430
-# My rank is 192
+# This is my code in Kaggle
+
